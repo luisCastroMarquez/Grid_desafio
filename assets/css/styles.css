@@ -25,7 +25,7 @@ header {
     flex-direction: column;
     justify-content: space-around;
     background: #1d4466;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
 }
 
 header h1{
@@ -41,7 +41,7 @@ header h1{
     align-items: center;
     padding: 20px 0;
     background: #d4d4d4;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
 }
 
 .sidebar h2 {
@@ -59,7 +59,7 @@ header h1{
     grid-area: productos;
     overflow-y: auto;
     background: #d4d4d4;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
 }
 
 .products__list {
@@ -80,7 +80,7 @@ header h1{
     align-items: center;
     flex-direction: column;
     justify-content: space-around;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
 }
 
 .products__list__card img {
@@ -132,7 +132,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
 }
 
 footer p {
@@ -167,7 +167,6 @@ footer p {
         align-items: center;
         flex-direction: column;
         justify-content: space-around;
-        border: 1px solid #000;
     }
 
     .products__list__card img {
